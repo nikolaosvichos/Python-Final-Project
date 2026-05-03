@@ -1,0 +1,31 @@
+Sample,Model,Estimate Type,Estimate,SE,P-Value,Bandwidth Type,Bandwidth (h),N,Outcome
+Full Sample,Without Controls,Conventional,-0.004,0.025,0.859,MSE-optimal,8.36,1157,Liberal Attitudes
+Full Sample,Without Controls,Bias-Corrected,-0.006,0.025,0.799,MSE-optimal,8.36,1157,Liberal Attitudes
+Full Sample,Without Controls,Bias-Corrected (Robust SE),-0.006,0.033,0.847,MSE-optimal,8.36,1157,Liberal Attitudes
+Full Sample,With Controls,Conventional,-0.001,0.023,0.976,MSE-optimal,8.52,1132,Liberal Attitudes
+Full Sample,With Controls,Bias-Corrected,0.001,0.023,0.977,MSE-optimal,8.52,1132,Liberal Attitudes
+Full Sample,With Controls,Bias-Corrected (Robust SE),0.001,0.031,0.983,MSE-optimal,8.52,1132,Liberal Attitudes
+Independents,Without Controls,Conventional,-0.014,0.047,0.762,MSE-optimal,8.33,285,Liberal Attitudes
+Independents,Without Controls,Bias-Corrected,-0.019,0.047,0.68,MSE-optimal,8.33,285,Liberal Attitudes
+Independents,Without Controls,Bias-Corrected (Robust SE),-0.019,0.062,0.755,MSE-optimal,8.33,285,Liberal Attitudes
+Independents,With Controls,Conventional,-0.034,0.043,0.438,MSE-optimal,8.38,276,Liberal Attitudes
+Independents,With Controls,Bias-Corrected,-0.054,0.043,0.209,MSE-optimal,8.38,276,Liberal Attitudes
+Independents,With Controls,Bias-Corrected (Robust SE),-0.054,0.057,0.344,MSE-optimal,8.38,276,Liberal Attitudes
+Partisans,Without Controls,Conventional,0.005,0.038,0.892,MSE-optimal,8.2,671,Liberal Attitudes
+Partisans,Without Controls,Bias-Corrected,0.007,0.038,0.862,MSE-optimal,8.2,671,Liberal Attitudes
+Partisans,Without Controls,Bias-Corrected (Robust SE),0.007,0.05,0.895,MSE-optimal,8.2,671,Liberal Attitudes
+Partisans,With Controls,Conventional,0.013,0.034,0.702,MSE-optimal,8.4,659,Liberal Attitudes
+Partisans,With Controls,Bias-Corrected,0.023,0.034,0.505,MSE-optimal,8.4,659,Liberal Attitudes
+Partisans,With Controls,Bias-Corrected (Robust SE),0.023,0.046,0.622,MSE-optimal,8.4,659,Liberal Attitudes
+Democrats,Without Controls,Conventional,0.003,0.045,0.939,MSE-optimal,9.15,438,Liberal Attitudes
+Democrats,Without Controls,Bias-Corrected,0.011,0.045,0.807,MSE-optimal,9.15,438,Liberal Attitudes
+Democrats,Without Controls,Bias-Corrected (Robust SE),0.011,0.061,0.858,MSE-optimal,9.15,438,Liberal Attitudes
+Democrats,With Controls,Conventional,0.023,0.038,0.554,MSE-optimal,9.62,431,Liberal Attitudes
+Democrats,With Controls,Bias-Corrected,0.051,0.038,0.185,MSE-optimal,9.62,431,Liberal Attitudes
+Democrats,With Controls,Bias-Corrected (Robust SE),0.051,0.053,0.339,MSE-optimal,9.62,431,Liberal Attitudes
+Republicans,Without Controls,Conventional,-0.052,0.074,0.477,MSE-optimal,6.3,198,Liberal Attitudes
+Republicans,Without Controls,Bias-Corrected,-0.076,0.074,0.299,MSE-optimal,6.3,198,Liberal Attitudes
+Republicans,Without Controls,Bias-Corrected (Robust SE),-0.076,0.09,0.395,MSE-optimal,6.3,198,Liberal Attitudes
+Republicans,With Controls,Conventional,-0.076,0.075,0.311,MSE-optimal,5.79,162,Liberal Attitudes
+Republicans,With Controls,Bias-Corrected,-0.102,0.075,0.176,MSE-optimal,5.79,162,Liberal Attitudes
+Republicans,With Controls,Bias-Corrected (Robust SE),-0.102,0.091,0.261,MSE-optimal,5.79,162,Liberal Attitudes
