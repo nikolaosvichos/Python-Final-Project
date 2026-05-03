@@ -342,6 +342,10 @@ Finally, the interaction between political socialization and partisan power stat
 
 # Appendix
 
+## Supplementary Materials
+
+Additional supplementary materials, including the full replication code, can be found in the paper's dedicated online repository: <https://github.com/nikolaosvichos/Python-Final-Project>
+
 ## Index Construction
 
 This appendix documents the construction of the Liberalism Index, including item wording, internal consistency, factor structure, and rescaling. The index is based on seven items measuring support for liberal democratic norms.
